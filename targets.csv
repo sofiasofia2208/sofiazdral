@@ -1,0 +1,13 @@
+﻿FileName;Group;HealthStatus;Trained;Time;ShortName
+GSM28550.CEL;Healthy.NoTrained;Healthy;No;1_Week;Healthy_1W
+GSM28551.CEL;Healthy.NoTrained;Healthy;No;3_Week;Healthy_3W
+GSM28552.CEL;Healthy.NoTrained;Healthy;No;5_Week;Healthy_5W
+GSM28553.CEL;Diabetic.NoTrained;Diabetic;No;1_Week;Diabetic_1W
+GSM28554.CEL;Diabetic.NoTrained;Diabetic;No;3_Week;Diabetic_3W
+GSM28555.CEL;Diabetic.NoTrained;Diabetic;No;5_Week;Diabetic_5W
+GSM28556.CEL;Diabetic.Trained;Diabetic;Yes;1_Week;Trained_diabetic_1W
+GSM28557.CEL;Diabetic.Trained;Diabetic;Yes;3_Week;Trained_diabetic_3W
+GSM28558.CEL;Diabetic.Trained;Diabetic;Yes;5_Week;Trained_diabetic_5W
+GSM28559.CEL;Healthy.Trained;Healthy;Yes;1_Week;Trained_1W
+GSM28560.CEL;Healthy.Trained;Healthy;Yes;3_Week;Trained_3W
+GSM28561.CEL;Healthy.Trained;Healthy;Yes;5_Week;Trained_5W
