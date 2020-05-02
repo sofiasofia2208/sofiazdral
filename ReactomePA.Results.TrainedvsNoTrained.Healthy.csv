@@ -1,0 +1,5 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"R-MMU-390522","Striated Muscle Contraction","2/2","33/8772",1.37251210735041e-05,5.49004842940165e-05,NA,"Tnni3/Myh6",2
+"R-MMU-397014","Muscle contraction","2/2","177/8772",0.000404891071668371,0.000809782143336743,NA,"Tnni3/Myh6",2
+"R-MMU-5578775","Ion homeostasis","1/2","52/8772",0.0118214363827901,0.0157619151770535,NA,"Tnni3",1
+"R-MMU-5576891","Cardiac conduction","1/2","123/8772",0.0278487385599945,0.0278487385599945,NA,"Tnni3",1
