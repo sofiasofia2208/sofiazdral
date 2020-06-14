@@ -1,4 +1,3 @@
 # sofiazdral
 Master Ejercicios
-Este es el trabajo realizado por Sofía Zdral Noguero como parte de la primera P.E.C. de la asignatura Análisis de Datos Ómicos.
-Los datos se encuentran en la rama (branch) "data" y los archivos resultantes del código en la rama "results". El código de R usado se encuentra en la rama "master"
+Aquí se encuentran los resultados obtenidos en la PEC 1 y la PEC2 de Análisis de Datos Ómicos, los archivos de R donde queda reflejado el flujo de trabajo y los pdf que recogen los informes.
